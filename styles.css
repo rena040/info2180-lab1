@@ -1,0 +1,13 @@
+h1 {
+    font-size: 24px;
+    color: #38B2AC; /* Set color for h1 */
+}
+
+h2 {
+    font-size: 21px;
+    color: #5A67D8; /* Set color for h2 */
+}
+
+p {
+    font-size: 18px; /* Set font size for paragraphs */
+}
